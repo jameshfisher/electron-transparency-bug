@@ -29,7 +29,8 @@ When the window is moved back into the display area, its background is still tra
 Uh-oh! The window now has an ugly black section, where the transparent window background has been replaced with black.
 
 ### Screenshots
-<!-- If applicable, add screenshots to help explain your problem. -->
+
+A recording of the bug is at https://github.com/jameshfisher/electron-transparency-bug/blob/master/bug_recording.mp4
 
 ### Additional Information
 
